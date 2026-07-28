@@ -33,7 +33,7 @@ polymers that look identical in visible light separate cleanly across nine wavel
 learning against gradient boosting on the same problem.
 
 Underneath both: I learned the fundamentals by **building a neural network framework from scratch in
-NumPy** — every layer, every backward pass, no autograd.
+NumPy**  every layer, every backward pass, no autograd.
 
 ---
 
