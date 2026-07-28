@@ -46,7 +46,7 @@ NumPy**  every layer, every backward pass, no autograd.
       <p><em>Research internship</em></p>
       <p>Continuous finger force regression from 31-channel EEG and 40-channel high-density EMG.
       Trial-wise alignment via MNE, current source density and ICA artifact removal, multitaper band
-      power features, and Optuna-tuned XGBoost and LSTM models — plus a real-time inference path over
+      power features, and Optuna-tuned XGBoost and LSTM models plus a real-time inference path over
       Lab Streaming Layer.</p>
       <p>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch">
