@@ -1,7 +1,7 @@
 <h1 align="center">Hussein Said</h1>
 
 <p align="center">
-  Machine learning for signals and sensors — EEG, EMG, and multispectral imaging.<br>
+  Machine learning for signals and sensors EEG, EMG, and multispectral imaging.<br>
   I build the whole path: raw sensor data → preprocessing → features → model → real-time inference.
 </p>
 
