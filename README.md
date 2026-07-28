@@ -19,13 +19,13 @@
 
 ## What I work on
 
-Most of my work sits where **physical sensors meet machine learning** — the messy part, where signals
+Most of my work sits where **physical sensors meet machine learning**  the messy part, where signals
 are noisy, misaligned, and there is never enough labelled data.
 
 Two threads run through it:
 
 **Signals from the body.** Predicting continuous finger force from EEG and EMG recorded
-simultaneously — aligning three streams at different sampling rates, removing artifacts, extracting
+simultaneously aligning three streams at different sampling rates, removing artifacts, extracting
 spectral features, and getting a model to run fast enough for real-time inference over a live stream.
 
 **Signals from materials.** Classifying plastic types from near-infrared multispectral imaging, where
@@ -75,7 +75,7 @@ NumPy** — every layer, every backward pass, no autograd.
 
 ## Deep learning framework, from scratch
 
-Four repositories, built in sequence — a complete neural network framework in pure NumPy with no
+Four repositories, built in sequence a complete neural network framework in pure NumPy with no
 autograd, no PyTorch, and every gradient derived and implemented by hand.
 
 ```mermaid
